@@ -1,6 +1,6 @@
-# 新闻上的文本分类：机器学习大乱斗 2017.05.05
+# 新闻上的文本分类：机器学习大乱斗 2019.05.05
 
-查看完整文档： https://zhuanlan.zhihu.com/p/26729228
+参考文档： https://zhuanlan.zhihu.com/p/26729228
 
 ### 目标
 
@@ -22,17 +22,12 @@
 5. KNN
 6. SVM
 7. SVM + word2vec 、SVM + doc2vec
-第 1-3 组属于深度学习方法，第 4-6 组属于传统机器学习方法，第 7 组算是种深度与传统合作的方法，画风清奇，拿来试试看看效果
 
 
 ### 数据集
 
 搜狗实验室 搜狐新闻数据 下载地址：http://www.sogou.com/labs/resource/cs.php
 
-
-### 先上结果
-
-![](https://git.oschina.net/uploads/images/2017/0724/105517_0327b8f1_1452419.png "")
 
 ### 实验结论
 
